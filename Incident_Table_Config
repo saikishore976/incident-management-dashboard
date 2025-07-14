@@ -1,0 +1,7 @@
+# Incident Table Configuration
+
+This document contains the setup for the custom Incident table used in the dashboard.
+
+- Added custom fields for: priority, category, assignment group, SLA, status.
+- Enabled auditing on key fields.
+- Linked table with Performance Analytics indicators.

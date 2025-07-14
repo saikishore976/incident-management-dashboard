@@ -1,0 +1,5 @@
+Dashboard Layout:
+- Top Row: Scorecards for Total Incidents, Resolved, Open, SLA Breached
+- Middle Row: Line chart showing incident trends (Daily)
+- Bottom Left: Pie chart for category breakdown
+- Bottom Right: Bar chart for response times by priority

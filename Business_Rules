@@ -1,0 +1,7 @@
+# Business Rules
+
+The following business rules were implemented:
+
+- Auto-assign incident based on category and urgency.
+- Calculate SLA target time on incident creation.
+- Trigger email notification on status change.

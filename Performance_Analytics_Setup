@@ -1,0 +1,13 @@
+# Performance Analytics Setup
+
+Steps:
+1. Created Indicators for:
+   - Open Incidents
+   - Resolved Incidents
+   - SLA Breached
+2. Added breakdowns:
+   - By Priority
+   - By Category
+3. Configured Time Series:
+   - Daily, Weekly, Monthly
+4. Created Widgets using these indicators
